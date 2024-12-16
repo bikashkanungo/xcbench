@@ -6,8 +6,7 @@ import copy
 import json
 import ntpath
 import PeriodicTable as ptab
-
-__ANGS_TO_BOHR__ = 1.8897259885789
+import Units as units
 
 def getSysData(sysJSON, geomJSON, start=None, end=None):
     data = None
@@ -40,7 +39,7 @@ def getSysData(sysJSON, geomJSON, start=None, end=None):
 
     return systems
 
-def createCoords(systems, rootDir, coordsFname, domainFname, vaccuum=25.0, base = 5):
+def createCoords(systems, rootDir, coordsFname, domainFname, lengthUnits, vaccuum=25.0, base = 5):
     for s in systems:
         words = s.split(":")
         subset = words[0]
@@ -57,6 +56,7 @@ def createCoords(systems, rootDir, coordsFname, domainFname, vaccuum=25.0, base 
         os.chdir(path)
         minCoord = [1e12 for i in range(3)]
         maxCoord = [-1e12 for i in range(3)]
+        factor = units.lengthConversionFactor(lengthUnits["inp"], lengthUnits["out"])
         with open(coordsFname, "w") as f:
             geom = sysData["geom"]
             for atom in geom:
@@ -70,7 +70,7 @@ def createCoords(systems, rootDir, coordsFname, domainFname, vaccuum=25.0, base 
                     sym = (sym[0]).upper() + (sym[1:]).lower()
 
                 Z = ptab.getZ(sym)
-                coords = [float(x)*__ANGS_TO_BOHR__ for x in atom[1:]]
+                coords = [float(x)*factor for x in atom[1:]]
                 print(Z, Z, coords[0], coords[1], coords[2], mag, file = f)
                 for i in range(3):
                     minCoord[i] = min(minCoord[i], coords[i])
@@ -172,6 +172,7 @@ def createFiles(inp):
     outParamsFname = inp["outParamsFile"]
     sysJSON = inp["sysJSON"]
     geomJSON = inp["geomJSON"]
+    lengthUnits = inp["lengthUnits"]
     rootDir = os.path.abspath(inp["rootDir"])
     coordsFname = inp["outCoordsFile"]
     domainFname = inp["outDomainFile"]
@@ -229,7 +230,7 @@ def createFiles(inp):
 
     # create system folders (if they do not exists) and create
     # coordinates and domainVectors files in them
-    createCoords(systems, rootDir, coordsFname, domainFname, vaccuumBuffer)
+    createCoords(systems, rootDir, coordsFname, domainFname, lengthUnits, vaccuumBuffer)
     for s in systems:
         words = s.split(":")
         subset = words[0]

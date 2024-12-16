@@ -3,6 +3,7 @@
   "rootDir": "./",
   "sysJSON": "DietGMTKN55Systems.json",
   "geomJSON": "Geom.json",
+  "lengthUnits": {"inp": "Angs", "out": "bohr"},
   "inpParamsFile": "parameters_sample.prm",
   "outParamsFile": "paramaters.prm",
   "outCoordsFile": "coordinates.inp",

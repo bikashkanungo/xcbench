@@ -129,3 +129,11 @@
         ...
       }
     ```
+
+14. `"lengthUnits"`: Dictionary of form
+    ```python
+      {"inp": "Angs", "out": "bohr"}
+    ```
+    where `"inp"` specifies the input length units in the `geomJSON` file and `"out"` specifies the units for the coordinates file for DFT-FE.
+    DFT-FE uses atomic units (bohr), so the `"out"` must be `"bohr"`. Typically, thermochemistry databases such as GMTKN55 or G2 provide the 
+    units in Angstrom.
