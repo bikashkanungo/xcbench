@@ -63,7 +63,7 @@ if __name__ == "__main__":
         for func in funcs:
             meanErr[subset][func] = {}
             for t in types:
-                meanErr[subset][func][t] = {"ME": None, "MAE": "None"}
+                meanErr[subset][func][t] = {"ME": None, "MAE": None}
                 N = len(err[subset][func][t])
                 if N > 0:
                     me = 0.0
