@@ -59,7 +59,7 @@
         ...
         }
     ```
-13. "dataJSON": JSON file containing the geometries of all the systems across all the subsets. The assumed format is a nested dictionary of the form:
+13. "geomJSON": JSON file containing the geometries of all the systems across all the subsets. The assumed format is a nested dictionary of the form:
     ```python
       {
         "subset-name-1": {

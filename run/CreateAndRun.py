@@ -9,7 +9,7 @@ import PeriodicTable as ptab
 
 __ANGS_TO_BOHR__ = 1.8897259885789
 
-def getSysData(sysJSON, dataJSON, start=None, end=None):
+def getSysData(sysJSON, geomJSON, start=None, end=None):
     data = None
     sysNames = []
     systems = {}
@@ -29,7 +29,7 @@ def getSysData(sysJSON, dataJSON, start=None, end=None):
     sysNames = sysNames[start:end]
 
     # load the data for all systems
-    with open(dataJSON) as f:
+    with open(geomJSON) as f:
         data = json.load(f)
 
     for s in sysNames:
@@ -171,7 +171,7 @@ def createFiles(inp):
     inpParamsFname = inp["inpParamsFile"]
     outParamsFname = inp["outParamsFile"]
     sysJSON = inp["sysJSON"]
-    dataJSON = inp["dataJSON"]
+    geomJSON = inp["geomJSON"]
     rootDir = os.path.abspath(inp["rootDir"])
     coordsFname = inp["outCoordsFile"]
     domainFname = inp["outDomainFile"]
@@ -225,7 +225,7 @@ def createFiles(inp):
             raise Exception("PTC file " + ptcPath + " not found")
 
     # get systems based on start and end IDs
-    systems = getSysData(sysJSON, dataJSON, startID, endID)
+    systems = getSysData(sysJSON, geomJSON, startID, endID)
 
     # create system folders (if they do not exists) and create
     # coordinates and domainVectors files in them
@@ -306,7 +306,7 @@ def createFiles(inp):
 def run(inp):
     outParamsFname = inp["outParamsFile"]
     sysJSON = inp["sysJSON"]
-    dataJSON = inp["dataJSON"]
+    geomJSON = inp["geomJSON"]
     rootDir = os.path.abspath(inp["rootDir"])
     coordsFname = inp["outCoordsFile"]
     domainFname = inp["outDomainFile"]
@@ -329,7 +329,7 @@ def run(inp):
         srunParams = ""
 
     # get systems based on start and end IDs
-    systems = getSysData(sysJSON, dataJSON, startID, endID)
+    systems = getSysData(sysJSON, geomJSON, startID, endID)
     for s in systems:
         words = s.split(":")
         subset = words[0]

@@ -2,7 +2,7 @@
   "mode": "both",
   "rootDir": "./",
   "sysJSON": "DietGMTKN55Systems.json",
-  "dataJSON": "GeomAll.json",
+  "geomJSON": "GeomAll.json",
   "inpParamsFile": "parameters_sample.prm",
   "outParamsFile": "paramaters.prm",
   "outCoordsFile": "coordinates.inp",
