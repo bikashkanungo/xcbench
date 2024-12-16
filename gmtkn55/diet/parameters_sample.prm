@@ -1,0 +1,68 @@
+subsection Geometry
+  set NATOMS  = 3
+  set NATOM TYPES   = 2
+  set ATOMIC COORDINATES FILE = coordinates.inp
+  set DOMAIN VECTORS FILE = domainVectors.inp
+  subsection Optimization
+    set ION FORCE=false
+    set CELL STRESS=false
+  end
+end
+
+subsection Boundary conditions
+  set SMEARED NUCLEAR CHARGES=false
+  set FLOATING NUCLEAR CHARGES=false
+  set PERIODIC1                       = false
+  set PERIODIC2                       = false
+  set PERIODIC3                       = false
+  set SELF POTENTIAL RADIUS = 4.0
+  set CONSTRAINTS PARALLEL CHECK=true
+end
+
+subsection Finite element mesh parameters
+  set POLYNOMIAL ORDER  = 4
+  set POLYNOMIAL ORDER ELECTROSTATICS   = 6
+  subsection Auto mesh generation parameters
+    set AUTO ADAPT BASE MESH SIZE=false
+    set MESH SIZE AROUND ATOM    = 0.4
+    set ATOM BALL RADIUS   = 1.5
+    set MESH SIZE AT ATOM   = 0.05
+  end
+end
+
+subsection DFT functional parameters
+  set EXCHANGE CORRELATION TYPE    = MLXC-NNGGA
+  set SPIN POLARIZATION    = 0
+  set MODEL XC INPUT FILE  = NNGGA.inp
+  set PSEUDOPOTENTIAL CALCULATION = false
+  subsection Dispersion Correction
+    set DISPERSION CORRECTION TYPE = 0
+    set D3 DAMPING TYPE            = 0
+    set CN CUTOFF                  = 40.0
+    set D3 ATM                     = false
+    set D4 MBD                     = false
+    set DAMPING PARAMETERS FILE    = 
+    set THREE BODY CUTOFF          = 40.0
+    set TWO BODY CUTOFF            = 94.8683298050514
+  end
+  subsection Hubbard Parameters
+    set HUBBARD PARAMETERS FILE = 
+  end
+end
+
+subsection SCF parameters
+  set COMPUTE ENERGY EACH ITER=true
+  set MIXING HISTORY   = 20
+  set MIXING PARAMETER = 0.2
+  set MAXIMUM ITERATIONS                      = 60
+  set TEMPERATURE                             = 100
+  set TOLERANCE                               = 0.0001
+  set STARTING WFC= ATOMIC
+  subsection Eigen-solver parameters
+      set NUMBER OF KOHN-SHAM WAVEFUNCTIONS   = 17
+      set ORTHOGONALIZATION TYPE=CGS
+      set CHEBYSHEV FILTER TOLERANCE  = 0.01
+  end
+end
+set H REFINED ELECTROSTATICS=false
+set VERBOSITY = 4

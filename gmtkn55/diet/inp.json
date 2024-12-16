@@ -1,0 +1,18 @@
+{
+  "mode": "both",
+  "rootDir": "./",
+  "sysJSON": "DietGMTKN55Systems.json",
+  "dataJSON": "GeomAll.json",
+  "inpParamsFile": "parameters_sample.prm",
+  "outParamsFile": "paramaters.prm",
+  "outCoordsFile": "coordinates.inp",
+  "outDomainFile": "domainVectors.inp",
+  "outFile": "out",
+  "vaccuumBuffer": 25.0,
+  "xc" : {"type": "MLXC-NNGGA", "modelPath": "NNGGA.inp", "ptcPath": "NNGGA.ptc"},
+  "dispersion": null,
+  "D3Damping": null,
+  "sysRange": {"start":0, "end": null},
+  "dftfeExec": "./dftfe",
+  "srunParams": null
+}

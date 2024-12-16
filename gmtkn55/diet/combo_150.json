@@ -1,0 +1,2438 @@
+{
+    "Amino20x4-4": {
+        "Energy": 5.044,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-4-ALA_xab",
+                "Count": 1
+            },
+            {
+                "ID": "Amino20x4-4-ALA_xag",
+                "Count": -1
+            }
+        ]
+    },
+    "Amino20x4-6": {
+        "Energy": 2.529,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-6-ARG_xbv",
+                "Count": 1
+            },
+            {
+                "ID": "Amino20x4-6-ARG_xci",
+                "Count": -1
+            }
+        ]
+    },
+    "Amino20x4-15": {
+        "Energy": 2.897,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-15-ASP_xau",
+                "Count": 1
+            },
+            {
+                "ID": "Amino20x4-15-ASP_xaz",
+                "Count": -1
+            }
+        ]
+    },
+    "Amino20x4-25": {
+        "Energy": 1.335,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-25-GLU_xbi",
+                "Count": -1
+            },
+            {
+                "ID": "Amino20x4-25-GLU_xav",
+                "Count": 1
+            }
+        ]
+    },
+    "Amino20x4-39": {
+        "Energy": 0.963,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-39-ILE_xae",
+                "Count": -1
+            },
+            {
+                "ID": "Amino20x4-39-ILE_xag",
+                "Count": 1
+            }
+        ]
+    },
+    "Amino20x4-41": {
+        "Energy": 0.338,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-41-LEU_xap",
+                "Count": -1
+            },
+            {
+                "ID": "Amino20x4-41-LEU_xad",
+                "Count": 1
+            }
+        ]
+    },
+    "Amino20x4-46": {
+        "Energy": 0.199,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-46-LYS_xap",
+                "Count": -1
+            },
+            {
+                "ID": "Amino20x4-46-LYS_xan",
+                "Count": 1
+            }
+        ]
+    },
+    "Amino20x4-68": {
+        "Energy": 4.224,
+        "Weight": 23.31,
+        "Species": [
+            {
+                "ID": "Amino20x4-68-THR_xaq",
+                "Count": -1
+            },
+            {
+                "ID": "Amino20x4-68-THR_xal",
+                "Count": 1
+            }
+        ]
+    },
+    "BHROT27-3": {
+        "Energy": 3.46,
+        "Weight": 9.06,
+        "Species": [
+            {
+                "ID": "BHROT27-3-tmethane_120",
+                "Count": 1
+            },
+            {
+                "ID": "BHROT27-3-tmethane_60",
+                "Count": -1
+            }
+        ]
+    },
+    "BHROT27-11": {
+        "Energy": 1.62,
+        "Weight": 9.06,
+        "Species": [
+            {
+                "ID": "BHROT27-11-n2h4_ecl1",
+                "Count": 1
+            },
+            {
+                "ID": "BHROT27-11-n2h4_st1",
+                "Count": -1
+            }
+        ]
+    },
+    "BHROT27-14": {
+        "Energy": 2.68,
+        "Weight": 9.06,
+        "Species": [
+            {
+                "ID": "BHROT27-14-nh2oh_st2",
+                "Count": -1
+            },
+            {
+                "ID": "BHROT27-14-nh2oh_ecl",
+                "Count": 1
+            }
+        ]
+    },
+    "BHROT27-21": {
+        "Energy": 1.39,
+        "Weight": 9.06,
+        "Species": [
+            {
+                "ID": "BHROT27-21-bithiophene_syn",
+                "Count": -1
+            },
+            {
+                "ID": "BHROT27-21-bithiophene_TS",
+                "Count": 1
+            }
+        ]
+    },
+    "FH51-26": {
+        "Energy": -19.72,
+        "Weight": 1.83,
+        "Species": [
+            {
+                "ID": "FH51-26-C4H9NHCONH2",
+                "Count": 1
+            },
+            {
+                "ID": "FH51-26-NH3",
+                "Count": -1
+            },
+            {
+                "ID": "FH51-26-C4H9NCO",
+                "Count": -1
+            }
+        ]
+    },
+    "FH51-27": {
+        "Energy": -19.34,
+        "Weight": 1.83,
+        "Species": [
+            {
+                "ID": "FH51-27-C3H7CONH2",
+                "Count": 1
+            },
+            {
+                "ID": "FH51-27-H2O",
+                "Count": -1
+            },
+            {
+                "ID": "FH51-27-C3H7CN",
+                "Count": -1
+            }
+        ]
+    },
+    "FH51-40": {
+        "Energy": -6.45,
+        "Weight": 1.83,
+        "Species": [
+            {
+                "ID": "FH51-40-methyl-d-valerolactone",
+                "Count": 1
+            },
+            {
+                "ID": "FH51-40-hexandione",
+                "Count": -1
+            }
+        ]
+    },
+    "FH51-48": {
+        "Energy": -0.86,
+        "Weight": 1.83,
+        "Species": [
+            {
+                "ID": "FH51-48-3-methylpentane",
+                "Count": -1
+            },
+            {
+                "ID": "FH51-48-dimethylbutane",
+                "Count": 1
+            }
+        ]
+    },
+    "TAUT15-5": {
+        "Energy": 13.03,
+        "Weight": 18.66,
+        "Species": [
+            {
+                "ID": "TAUT15-5-3a",
+                "Count": -1
+            },
+            {
+                "ID": "TAUT15-5-3d",
+                "Count": 1
+            }
+        ]
+    },
+    "TAUT15-13": {
+        "Energy": 0.55,
+        "Weight": 18.66,
+        "Species": [
+            {
+                "ID": "TAUT15-13-8b",
+                "Count": 1
+            },
+            {
+                "ID": "TAUT15-13-8a",
+                "Count": -1
+            }
+        ]
+    },
+    "ISOL24-2": {
+        "Energy": 38.5,
+        "Weight": 2.59,
+        "Species": [
+            {
+                "ID": "ISOL24-2-i2p",
+                "Count": 1
+            },
+            {
+                "ID": "ISOL24-2-i2e",
+                "Count": -1
+            }
+        ]
+    },
+    "ISOL24-4": {
+        "Energy": 69.03,
+        "Weight": 2.59,
+        "Species": [
+            {
+                "ID": "ISOL24-4-i4e",
+                "Count": -1
+            },
+            {
+                "ID": "ISOL24-4-i4p",
+                "Count": 1
+            }
+        ]
+    },
+    "ISOL24-20": {
+        "Energy": 4.97,
+        "Weight": 2.59,
+        "Species": [
+            {
+                "ID": "ISOL24-20-i20e",
+                "Count": -1
+            },
+            {
+                "ID": "ISOL24-20-i20p",
+                "Count": 1
+            }
+        ]
+    },
+    "PCONF21-3": {
+        "Energy": 0.7,
+        "Weight": 35.05,
+        "Species": [
+            {
+                "ID": "PCONF21-3-99",
+                "Count": -1
+            },
+            {
+                "ID": "PCONF21-3-366",
+                "Count": 1
+            }
+        ]
+    },
+    "DARC-11": {
+        "Energy": -31.7,
+        "Weight": 1.75,
+        "Species": [
+            {
+                "ID": "DARC-11-P9",
+                "Count": 1
+            },
+            {
+                "ID": "DARC-11-malein",
+                "Count": -1
+            },
+            {
+                "ID": "DARC-11-cpdiene",
+                "Count": -1
+            }
+        ]
+    },
+    "ICONF-16": {
+        "Energy": 3.66,
+        "Weight": 17.4,
+        "Species": [
+            {
+                "ID": "ICONF-16-H4P2O7_1",
+                "Count": -1
+            },
+            {
+                "ID": "ICONF-16-H4P2O7_3",
+                "Count": 1
+            }
+        ]
+    },
+    "ISO34-21": {
+        "Energy": 1.16,
+        "Weight": 3.9,
+        "Species": [
+            {
+                "ID": "ISO34-21-P21",
+                "Count": 1
+            },
+            {
+                "ID": "ISO34-21-E21",
+                "Count": -1
+            }
+        ]
+    },
+    "UPU23-2": {
+        "Energy": 2.97,
+        "Weight": 9.93,
+        "Species": [
+            {
+                "ID": "UPU23-2-1b",
+                "Count": 1
+            },
+            {
+                "ID": "UPU23-2-2p",
+                "Count": -1
+            }
+        ]
+    },
+    "UPU23-4": {
+        "Energy": 2.22,
+        "Weight": 9.93,
+        "Species": [
+            {
+                "ID": "UPU23-4-2p",
+                "Count": -1
+            },
+            {
+                "ID": "UPU23-4-1g",
+                "Count": 1
+            }
+        ]
+    },
+    "UPU23-9": {
+        "Energy": 7.26,
+        "Weight": 9.93,
+        "Species": [
+            {
+                "ID": "UPU23-9-2p",
+                "Count": -1
+            },
+            {
+                "ID": "UPU23-9-7a",
+                "Count": 1
+            }
+        ]
+    },
+    "UPU23-15": {
+        "Energy": 5.48,
+        "Weight": 9.93,
+        "Species": [
+            {
+                "ID": "UPU23-15-4b",
+                "Count": 1
+            },
+            {
+                "ID": "UPU23-15-2p",
+                "Count": -1
+            }
+        ]
+    },
+    "RG18-11": {
+        "Energy": 0.59,
+        "Weight": 98,
+        "Species": [
+            {
+                "ID": "RG18-11-ar",
+                "Count": 1
+            },
+            {
+                "ID": "RG18-11-hf",
+                "Count": 1
+            },
+            {
+                "ID": "RG18-11-hfAr",
+                "Count": -1
+            }
+        ]
+    },
+    "RG18-13": {
+        "Energy": 0.12,
+        "Weight": 98,
+        "Species": [
+            {
+                "ID": "RG18-13-c2h2Ne",
+                "Count": -1
+            },
+            {
+                "ID": "RG18-13-ne",
+                "Count": 1
+            },
+            {
+                "ID": "RG18-13-c2h2",
+                "Count": 1
+            }
+        ]
+    },
+    "RG18-15": {
+        "Energy": 0.24,
+        "Weight": 98,
+        "Species": [
+            {
+                "ID": "RG18-15-c2h6Ne",
+                "Count": -1
+            },
+            {
+                "ID": "RG18-15-c2h6",
+                "Count": 1
+            },
+            {
+                "ID": "RG18-15-ne",
+                "Count": 1
+            }
+        ]
+    },
+    "DC13-10": {
+        "Energy": 109.92,
+        "Weight": 1.03,
+        "Species": [
+            {
+                "ID": "DC13-10-ISO_C8H8_41",
+                "Count": 1
+            },
+            {
+                "ID": "DC13-10-ISO_C8H8_1",
+                "Count": -1
+            }
+        ]
+    },
+    "DC13-13": {
+        "Energy": 152.6,
+        "Weight": 1.03,
+        "Species": [
+            {
+                "ID": "DC13-13-C6Cl6",
+                "Count": -1
+            },
+            {
+                "ID": "DC13-13-CL2",
+                "Count": 6
+            },
+            {
+                "ID": "DC13-13-C6H6",
+                "Count": 1
+            },
+            {
+                "ID": "DC13-13-HCL",
+                "Count": -6
+            }
+        ]
+    },
+    "BH76-8": {
+        "Energy": 56.9,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-8-hfch3ts",
+                "Count": 1
+            },
+            {
+                "ID": "BH76-8-ch3",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-8-hf",
+                "Count": -1
+            }
+        ]
+    },
+    "BH76-36": {
+        "Energy": 33,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-36-c3h7",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-36-c3h7ts",
+                "Count": 1
+            }
+        ]
+    },
+    "BH76-37": {
+        "Energy": 48.1,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-37-hcn",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-37-hcnts",
+                "Count": 1
+            }
+        ]
+    },
+    "BH76-47": {
+        "Energy": 9.7,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-47-H2",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-47-h",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-47-RKT06",
+                "Count": 1
+            }
+        ]
+    },
+    "BH76-50": {
+        "Energy": 13.7,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-50-RKT07",
+                "Count": 1
+            },
+            {
+                "ID": "BH76-50-H2O",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-50-NH2",
+                "Count": -1
+            }
+        ]
+    },
+    "BH76-53": {
+        "Energy": 3.5,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-53-C2H6",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-53-RKT09",
+                "Count": 1
+            },
+            {
+                "ID": "BH76-53-oh",
+                "Count": -1
+            }
+        ]
+    },
+    "BH76-66": {
+        "Energy": 9.9,
+        "Weight": 3.05,
+        "Species": [
+            {
+                "ID": "BH76-66-RKT17",
+                "Count": 1
+            },
+            {
+                "ID": "BH76-66-cl",
+                "Count": -1
+            },
+            {
+                "ID": "BH76-66-oh",
+                "Count": -1
+            }
+        ]
+    },
+    "HEAVY28-3": {
+        "Energy": 1.36,
+        "Weight": 45.79,
+        "Species": [
+            {
+                "ID": "HEAVY28-3-bih3_h2s",
+                "Count": -1
+            },
+            {
+                "ID": "HEAVY28-3-bih3",
+                "Count": 1
+            },
+            {
+                "ID": "HEAVY28-3-h2s",
+                "Count": 1
+            }
+        ]
+    },
+    "HEAVY28-16": {
+        "Energy": 1.57,
+        "Weight": 45.79,
+        "Species": [
+            {
+                "ID": "HEAVY28-16-sbh3_h2o",
+                "Count": -1
+            },
+            {
+                "ID": "HEAVY28-16-h2o",
+                "Count": 1
+            },
+            {
+                "ID": "HEAVY28-16-sbh3",
+                "Count": 1
+            }
+        ]
+    },
+    "HEAVY28-24": {
+        "Energy": 0.48,
+        "Weight": 45.79,
+        "Species": [
+            {
+                "ID": "HEAVY28-24-teh2",
+                "Count": 1
+            },
+            {
+                "ID": "HEAVY28-24-h2s",
+                "Count": 1
+            },
+            {
+                "ID": "HEAVY28-24-teh2_h2s",
+                "Count": -1
+            }
+        ]
+    },
+    "INV24-1": {
+        "Energy": 31.7,
+        "Weight": 1.78,
+        "Species": [
+            {
+                "ID": "INV24-1-H2O",
+                "Count": -1
+            },
+            {
+                "ID": "INV24-1-H2O_TS",
+                "Count": 1
+            }
+        ]
+    },
+    "INV24-14": {
+        "Energy": 24.7,
+        "Weight": 1.78,
+        "Species": [
+            {
+                "ID": "INV24-14-Pentahelicene",
+                "Count": -1
+            },
+            {
+                "ID": "INV24-14-Pentahelicene_TS",
+                "Count": 1
+            }
+        ]
+    },
+    "INV24-15": {
+        "Energy": 37.6,
+        "Weight": 1.78,
+        "Species": [
+            {
+                "ID": "INV24-15-Hexahelicene_TS",
+                "Count": 1
+            },
+            {
+                "ID": "INV24-15-Hexahelicene",
+                "Count": -1
+            }
+        ]
+    },
+    "PX13-8": {
+        "Energy": 35.1,
+        "Weight": 1.7,
+        "Species": [
+            {
+                "ID": "PX13-8-h2o_6_ts",
+                "Count": 1
+            },
+            {
+                "ID": "PX13-8-h2o_6",
+                "Count": -1
+            }
+        ]
+    },
+    "G2RC-16": {
+        "Energy": -48.52,
+        "Weight": 1.11,
+        "Species": [
+            {
+                "ID": "G2RC-16-8",
+                "Count": -1
+            },
+            {
+                "ID": "G2RC-16-97",
+                "Count": 1
+            },
+            {
+                "ID": "G2RC-16-45",
+                "Count": -2
+            },
+            {
+                "ID": "G2RC-16-22",
+                "Count": 2
+            }
+        ]
+    },
+    "G2RC-24": {
+        "Energy": -154.04,
+        "Weight": 1.11,
+        "Species": [
+            {
+                "ID": "G2RC-24-25",
+                "Count": -3
+            },
+            {
+                "ID": "G2RC-24-94",
+                "Count": 1
+            }
+        ]
+    },
+    "G2RC-25": {
+        "Energy": -216.11,
+        "Weight": 1.11,
+        "Species": [
+            {
+                "ID": "G2RC-25-24",
+                "Count": 2
+            },
+            {
+                "ID": "G2RC-25-39",
+                "Count": -1
+            },
+            {
+                "ID": "G2RC-25-23",
+                "Count": -1
+            }
+        ]
+    },
+    "CHB6-2": {
+        "Energy": -23.83,
+        "Weight": 2.12,
+        "Species": [
+            {
+                "ID": "CHB6-2-23A",
+                "Count": -1
+            },
+            {
+                "ID": "CHB6-2-23B",
+                "Count": -1
+            },
+            {
+                "ID": "CHB6-2-23",
+                "Count": 1
+            }
+        ]
+    },
+    "RC21-5": {
+        "Energy": 57.93,
+        "Weight": 1.59,
+        "Species": [
+            {
+                "ID": "RC21-5-3p1",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-5-3p2",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-5-3e",
+                "Count": -1
+            }
+        ]
+    },
+    "RC21-6": {
+        "Energy": 36.56,
+        "Weight": 1.59,
+        "Species": [
+            {
+                "ID": "RC21-6-3int1",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-6-3e",
+                "Count": -1
+            }
+        ]
+    },
+    "RC21-8": {
+        "Energy": 16.8,
+        "Weight": 1.59,
+        "Species": [
+            {
+                "ID": "RC21-8-3int3",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-8-3e",
+                "Count": -1
+            }
+        ]
+    },
+    "RC21-16": {
+        "Energy": -0.73,
+        "Weight": 1.59,
+        "Species": [
+            {
+                "ID": "RC21-16-7e",
+                "Count": -1
+            },
+            {
+                "ID": "RC21-16-7p1",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-16-7p2",
+                "Count": 1
+            }
+        ]
+    },
+    "RC21-20": {
+        "Energy": 32.81,
+        "Weight": 1.59,
+        "Species": [
+            {
+                "ID": "RC21-20-9p2",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-20-9p1",
+                "Count": 1
+            },
+            {
+                "ID": "RC21-20-9e",
+                "Count": -1
+            }
+        ]
+    },
+    "BHPERI-2": {
+        "Energy": 30.8,
+        "Weight": 2.72,
+        "Species": [
+            {
+                "ID": "BHPERI-2-TS2",
+                "Count": 1
+            },
+            {
+                "ID": "BHPERI-2-cis-1,3,5-Hexatriene",
+                "Count": -1
+            }
+        ]
+    },
+    "BHPERI-8": {
+        "Energy": 18,
+        "Weight": 2.72,
+        "Species": [
+            {
+                "ID": "BHPERI-8-Ethylene",
+                "Count": -1
+            },
+            {
+                "ID": "BHPERI-8-1,3-Cyclopentadiene",
+                "Count": -1
+            },
+            {
+                "ID": "BHPERI-8-TS8",
+                "Count": 1
+            }
+        ]
+    },
+    "BHPERI-25": {
+        "Energy": 21.6,
+        "Weight": 2.72,
+        "Species": [
+            {
+                "ID": "BHPERI-25-00r",
+                "Count": -1
+            },
+            {
+                "ID": "BHPERI-25-08ts",
+                "Count": 1
+            },
+            {
+                "ID": "BHPERI-25-07r",
+                "Count": -1
+            }
+        ]
+    },
+    "NBPRC-1": {
+        "Energy": -32.1,
+        "Weight": 2.3,
+        "Species": [
+            {
+                "ID": "NBPRC-1-nh3-bh3",
+                "Count": 1
+            },
+            {
+                "ID": "NBPRC-1-bh3",
+                "Count": -1
+            },
+            {
+                "ID": "NBPRC-1-nh3",
+                "Count": -1
+            }
+        ]
+    },
+    "G21EA-17": {
+        "Energy": 23.5,
+        "Weight": 1.69,
+        "Species": [
+            {
+                "ID": "G21EA-17-EA_17",
+                "Count": -1
+            },
+            {
+                "ID": "G21EA-17-EA_17n",
+                "Count": 1
+            }
+        ]
+    },
+    "G21EA-20": {
+        "Energy": 9.5,
+        "Weight": 1.69,
+        "Species": [
+            {
+                "ID": "G21EA-20-EA_20",
+                "Count": -1
+            },
+            {
+                "ID": "G21EA-20-EA_20n",
+                "Count": 1
+            }
+        ]
+    },
+    "G21EA-23": {
+        "Energy": 24.9,
+        "Weight": 1.69,
+        "Species": [
+            {
+                "ID": "G21EA-23-EA_23",
+                "Count": -1
+            },
+            {
+                "ID": "G21EA-23-EA_23n",
+                "Count": 1
+            }
+        ]
+    },
+    "AL2X6-5": {
+        "Energy": 31.2,
+        "Weight": 1.58,
+        "Species": [
+            {
+                "ID": "AL2X6-5-alme2",
+                "Count": 1
+            },
+            {
+                "ID": "AL2X6-5-alme3",
+                "Count": 1
+            },
+            {
+                "ID": "AL2X6-5-al2me5",
+                "Count": -1
+            }
+        ]
+    },
+    "C60ISO-7": {
+        "Energy": 142.18,
+        "Weight": 0.58,
+        "Species": [
+            {
+                "ID": "C60ISO-7-8",
+                "Count": 1
+            },
+            {
+                "ID": "C60ISO-7-1",
+                "Count": -1
+            }
+        ]
+    },
+    "C60ISO-9": {
+        "Energy": 164.88,
+        "Weight": 0.58,
+        "Species": [
+            {
+                "ID": "C60ISO-9-1",
+                "Count": -1
+            },
+            {
+                "ID": "C60ISO-9-10",
+                "Count": 1
+            }
+        ]
+    },
+    "SCONF-16": {
+        "Energy": 6.16,
+        "Weight": 12.36,
+        "Species": [
+            {
+                "ID": "SCONF-16-G3",
+                "Count": 1
+            },
+            {
+                "ID": "SCONF-16-G1",
+                "Count": -1
+            }
+        ]
+    },
+    "CDIE20-1": {
+        "Energy": -3.3,
+        "Weight": 14.02,
+        "Species": [
+            {
+                "ID": "CDIE20-1-P20",
+                "Count": 1
+            },
+            {
+                "ID": "CDIE20-1-R20",
+                "Count": -1
+            }
+        ]
+    },
+    "CDIE20-18": {
+        "Energy": 5.9,
+        "Weight": 14.02,
+        "Species": [
+            {
+                "ID": "CDIE20-18-P56",
+                "Count": 1
+            },
+            {
+                "ID": "CDIE20-18-R56",
+                "Count": -1
+            }
+        ]
+    },
+    "CDIE20-20": {
+        "Energy": 8.6,
+        "Weight": 14.02,
+        "Species": [
+            {
+                "ID": "CDIE20-20-P60",
+                "Count": 1
+            },
+            {
+                "ID": "CDIE20-20-R60",
+                "Count": -1
+            }
+        ]
+    },
+    "DIPCS10-2": {
+        "Energy": 667.1,
+        "Weight": 0.09,
+        "Species": [
+            {
+                "ID": "DIPCS10-2-c2h6",
+                "Count": -1
+            },
+            {
+                "ID": "DIPCS10-2-c2h6_2+",
+                "Count": 1
+            }
+        ]
+    },
+    "S22-3": {
+        "Energy": 18.753,
+        "Weight": 7.78,
+        "Species": [
+            {
+                "ID": "S22-3-3",
+                "Count": -1
+            },
+            {
+                "ID": "S22-3-03a",
+                "Count": 2
+            }
+        ]
+    },
+    "S22-8": {
+        "Energy": 0.527,
+        "Weight": 7.78,
+        "Species": [
+            {
+                "ID": "S22-8-08",
+                "Count": -1
+            },
+            {
+                "ID": "S22-8-08a",
+                "Count": 2
+            }
+        ]
+    },
+    "S22-11": {
+        "Energy": 2.654,
+        "Weight": 7.78,
+        "Species": [
+            {
+                "ID": "S22-11-11",
+                "Count": -1
+            },
+            {
+                "ID": "S22-11-11a",
+                "Count": 2
+            }
+        ]
+    },
+    "PA26-20": {
+        "Energy": 181.9,
+        "Weight": 0.3,
+        "Species": [
+            {
+                "ID": "PA26-20-si2h6",
+                "Count": 1
+            },
+            {
+                "ID": "PA26-20-si2h6p",
+                "Count": -1
+            }
+        ]
+    },
+    "PA26-25": {
+        "Energy": 236,
+        "Weight": 0.3,
+        "Species": [
+            {
+                "ID": "PA26-25-G",
+                "Count": 1
+            },
+            {
+                "ID": "PA26-25-Gp",
+                "Count": -1
+            }
+        ]
+    },
+    "W4-11-2": {
+        "Energy": 213.169,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-2-alh3",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-2-h",
+                "Count": 3
+            },
+            {
+                "ID": "W4-11-2-al",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-7": {
+        "Energy": 190.745,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-7-h",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-7-c",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-7-ch2-trip",
+                "Count": -1
+            }
+        ]
+    },
+    "W4-11-30": {
+        "Energy": 107.499,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-30-h",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-30-hcl",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-30-cl",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-31": {
+        "Energy": 182.591,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-31-h",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-31-n",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-31-nh2",
+                "Count": -1
+            }
+        ]
+    },
+    "W4-11-38": {
+        "Energy": 107.208,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-38-h",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-38-o",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-38-oh",
+                "Count": -1
+            }
+        ]
+    },
+    "W4-11-58": {
+        "Energy": 225.274,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-58-becl2",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-58-cl",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-58-be",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-63": {
+        "Energy": 533.462,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-63-ketene",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-63-h",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-63-c",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-63-o",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-73": {
+        "Energy": 298.203,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-73-h",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-73-hnc",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-73-c",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-73-n",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-77": {
+        "Energy": 456.072,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-77-oxirene",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-77-c",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-77-o",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-77-h",
+                "Count": 2
+            }
+        ]
+    },
+    "W4-11-85": {
+        "Energy": 390.141,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-85-c",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-85-co2",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-85-o",
+                "Count": 2
+            }
+        ]
+    },
+    "W4-11-86": {
+        "Energy": 386.087,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-86-fccf",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-86-c",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-86-f",
+                "Count": 2
+            }
+        ]
+    },
+    "W4-11-95": {
+        "Energy": 193.052,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-95-si",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-95-sio",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-95-o",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-102": {
+        "Energy": 312.219,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-102-h",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-102-c-hono",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-102-o",
+                "Count": 2
+            },
+            {
+                "ID": "W4-11-102-n",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-106": {
+        "Energy": 172.218,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-106-cs",
+                "Count": -1
+            },
+            {
+                "ID": "W4-11-106-c",
+                "Count": 1
+            },
+            {
+                "ID": "W4-11-106-s",
+                "Count": 1
+            }
+        ]
+    },
+    "W4-11-129": {
+        "Energy": 234.348,
+        "Weight": 0.19,
+        "Species": [
+            {
+                "ID": "W4-11-129-s",
+                "Count": 4
+            },
+            {
+                "ID": "W4-11-129-s4-c2v",
+                "Count": -1
+            }
+        ]
+    },
+    "BH76RC-5": {
+        "Energy": 17.8,
+        "Weight": 2.66,
+        "Species": [
+            {
+                "ID": "BH76RC-5-h",
+                "Count": -1
+            },
+            {
+                "ID": "BH76RC-5-hclhts",
+                "Count": 1
+            },
+            {
+                "ID": "BH76RC-5-hcl",
+                "Count": -1
+            }
+        ]
+    },
+    "IDISP-3": {
+        "Energy": -1.21,
+        "Weight": 4,
+        "Species": [
+            {
+                "ID": "IDISP-3-octane2",
+                "Count": -1
+            },
+            {
+                "ID": "IDISP-3-octane1",
+                "Count": 1
+            }
+        ]
+    },
+    "MB16-43-14": {
+        "Energy": 384.8895,
+        "Weight": 0.12,
+        "Species": [
+            {
+                "ID": "MB16-43-14-H2",
+                "Count": -9
+            },
+            {
+                "ID": "MB16-43-14-LiH",
+                "Count": 2
+            },
+            {
+                "ID": "MB16-43-14-14",
+                "Count": -2
+            },
+            {
+                "ID": "MB16-43-14-SiH4",
+                "Count": 2
+            },
+            {
+                "ID": "MB16-43-14-AlH3",
+                "Count": 4
+            },
+            {
+                "ID": "MB16-43-14-BH3",
+                "Count": 4
+            },
+            {
+                "ID": "MB16-43-14-O2",
+                "Count": 1
+            },
+            {
+                "ID": "MB16-43-14-Cl2",
+                "Count": 1
+            }
+        ]
+    },
+    "G21IP-6": {
+        "Energy": 335.3,
+        "Weight": 0.22,
+        "Species": [
+            {
+                "ID": "G21IP-6-n+",
+                "Count": 1
+            },
+            {
+                "ID": "G21IP-6-n",
+                "Count": -1
+            }
+        ]
+    },
+    "G21IP-15": {
+        "Energy": 299.1,
+        "Weight": 0.22,
+        "Species": [
+            {
+                "ID": "G21IP-15-cl",
+                "Count": -1
+            },
+            {
+                "ID": "G21IP-15-cl+",
+                "Count": 1
+            }
+        ]
+    },
+    "G21IP-31": {
+        "Energy": 277.727,
+        "Weight": 0.22,
+        "Species": [
+            {
+                "ID": "G21IP-31-37",
+                "Count": -1
+            },
+            {
+                "ID": "G21IP-31-IP_75",
+                "Count": 1
+            }
+        ]
+    },
+    "HAL59-7": {
+        "Energy": 0.92,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-7-PCH_PhI",
+                "Count": -1
+            },
+            {
+                "ID": "HAL59-7-PCH",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-7-PhI",
+                "Count": 1
+            }
+        ]
+    },
+    "HAL59-11": {
+        "Energy": 3.61,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-11-NCH",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-11-NCH_F3CI",
+                "Count": -1
+            },
+            {
+                "ID": "HAL59-11-F3CI",
+                "Count": 1
+            }
+        ]
+    },
+    "HAL59-16": {
+        "Energy": 1.19,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-16-PCH_NBS",
+                "Count": -1
+            },
+            {
+                "ID": "HAL59-16-NBS",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-16-PCH",
+                "Count": 1
+            }
+        ]
+    },
+    "HAL59-28": {
+        "Energy": 2.74,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-28-FI_PCH",
+                "Count": -1
+            },
+            {
+                "ID": "HAL59-28-PCH",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-28-FI",
+                "Count": 1
+            }
+        ]
+    },
+    "HAL59-32": {
+        "Energy": 0.74,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-32-FCCH",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-32-BrBr",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-32-BrBr_FCCH",
+                "Count": -1
+            }
+        ]
+    },
+    "HAL59-56": {
+        "Energy": 1.81,
+        "Weight": 12.38,
+        "Species": [
+            {
+                "ID": "HAL59-56-27_CH3Br-benAB",
+                "Count": -1
+            },
+            {
+                "ID": "HAL59-56-27_CH3Br-benA",
+                "Count": 1
+            },
+            {
+                "ID": "HAL59-56-27_CH3Br-benB",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-2": {
+        "Energy": 0.3,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-2-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-2-B3",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-29": {
+        "Energy": 2.85,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-29-B30",
+                "Count": 1
+            },
+            {
+                "ID": "BUT14DIOL-29-B1",
+                "Count": -1
+            }
+        ]
+    },
+    "BUT14DIOL-32": {
+        "Energy": 2.63,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-32-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-32-B33",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-38": {
+        "Energy": 3.06,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-38-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-38-B39",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-39": {
+        "Energy": 3.1,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-39-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-39-B40",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-42": {
+        "Energy": 3.29,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-42-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-42-B43",
+                "Count": 1
+            }
+        ]
+    },
+    "BUT14DIOL-43": {
+        "Energy": 3.59,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-43-B44",
+                "Count": 1
+            },
+            {
+                "ID": "BUT14DIOL-43-B1",
+                "Count": -1
+            }
+        ]
+    },
+    "BUT14DIOL-53": {
+        "Energy": 3.15,
+        "Weight": 20.3,
+        "Species": [
+            {
+                "ID": "BUT14DIOL-53-B1",
+                "Count": -1
+            },
+            {
+                "ID": "BUT14DIOL-53-B54",
+                "Count": 1
+            }
+        ]
+    },
+    "PArel-13": {
+        "Energy": 0.6,
+        "Weight": 12.28,
+        "Species": [
+            {
+                "ID": "PArel-13-aminocoohbz2",
+                "Count": -1
+            },
+            {
+                "ID": "PArel-13-aminocoohbz1",
+                "Count": 1
+            }
+        ]
+    },
+    "AHB21-6": {
+        "Energy": -25.52,
+        "Weight": 2.53,
+        "Species": [
+            {
+                "ID": "AHB21-6-6A",
+                "Count": -1
+            },
+            {
+                "ID": "AHB21-6-6B",
+                "Count": -1
+            },
+            {
+                "ID": "AHB21-6-6",
+                "Count": 1
+            }
+        ]
+    },
+    "AHB21-10": {
+        "Energy": -37.31,
+        "Weight": 2.53,
+        "Species": [
+            {
+                "ID": "AHB21-10-10B",
+                "Count": -1
+            },
+            {
+                "ID": "AHB21-10-10",
+                "Count": 1
+            },
+            {
+                "ID": "AHB21-10-10A",
+                "Count": -1
+            }
+        ]
+    },
+    "AHB21-15": {
+        "Energy": -8.62,
+        "Weight": 2.53,
+        "Species": [
+            {
+                "ID": "AHB21-15-15A",
+                "Count": -1
+            },
+            {
+                "ID": "AHB21-15-15B",
+                "Count": -1
+            },
+            {
+                "ID": "AHB21-15-15",
+                "Count": 1
+            }
+        ]
+    },
+    "PNICO23-7": {
+        "Energy": 4.29,
+        "Weight": 13.3,
+        "Species": [
+            {
+                "ID": "PNICO23-7-7b",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-7-7a",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-7-7",
+                "Count": -1
+            }
+        ]
+    },
+    "PNICO23-11": {
+        "Energy": 1.4,
+        "Weight": 13.3,
+        "Species": [
+            {
+                "ID": "PNICO23-11-11",
+                "Count": -1
+            },
+            {
+                "ID": "PNICO23-11-11a",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-11-11b",
+                "Count": 1
+            }
+        ]
+    },
+    "PNICO23-13": {
+        "Energy": 3.98,
+        "Weight": 13.3,
+        "Species": [
+            {
+                "ID": "PNICO23-13-13b",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-13-13a",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-13-13",
+                "Count": -1
+            }
+        ]
+    },
+    "PNICO23-21": {
+        "Energy": 4.92,
+        "Weight": 13.3,
+        "Species": [
+            {
+                "ID": "PNICO23-21-21b",
+                "Count": 1
+            },
+            {
+                "ID": "PNICO23-21-21",
+                "Count": -1
+            },
+            {
+                "ID": "PNICO23-21-21a",
+                "Count": 1
+            }
+        ]
+    },
+    "ACONF-11": {
+        "Energy": 2.632,
+        "Weight": 30.99,
+        "Species": [
+            {
+                "ID": "ACONF-11-H_ttt",
+                "Count": -1
+            },
+            {
+                "ID": "ACONF-11-H_g+x-t+",
+                "Count": 1
+            }
+        ]
+    },
+    "ACONF-14": {
+        "Energy": 3.083,
+        "Weight": 30.99,
+        "Species": [
+            {
+                "ID": "ACONF-14-H_x+g-g-",
+                "Count": 1
+            },
+            {
+                "ID": "ACONF-14-H_ttt",
+                "Count": -1
+            }
+        ]
+    },
+    "WCPT18-6": {
+        "Energy": 81.24,
+        "Weight": 1.62,
+        "Species": [
+            {
+                "ID": "WCPT18-6-ts6",
+                "Count": 1
+            },
+            {
+                "ID": "WCPT18-6-reac6",
+                "Count": -1
+            }
+        ]
+    },
+    "WCPT18-8": {
+        "Energy": 28.97,
+        "Weight": 1.62,
+        "Species": [
+            {
+                "ID": "WCPT18-8-reac8",
+                "Count": -1
+            },
+            {
+                "ID": "WCPT18-8-ts8",
+                "Count": 1
+            }
+        ]
+    },
+    "WCPT18-9": {
+        "Energy": 58.8,
+        "Weight": 1.62,
+        "Species": [
+            {
+                "ID": "WCPT18-9-reac9",
+                "Count": -1
+            },
+            {
+                "ID": "WCPT18-9-ts9",
+                "Count": 1
+            }
+        ]
+    },
+    "WCPT18-18": {
+        "Energy": 33.22,
+        "Weight": 1.62,
+        "Species": [
+            {
+                "ID": "WCPT18-18-h2o",
+                "Count": -1
+            },
+            {
+                "ID": "WCPT18-18-ts9h2o",
+                "Count": 1
+            },
+            {
+                "ID": "WCPT18-18-reac9",
+                "Count": -1
+            }
+        ]
+    },
+    "IL16-11": {
+        "Energy": -104.47,
+        "Weight": 0.52,
+        "Species": [
+            {
+                "ID": "IL16-11-214",
+                "Count": 1
+            },
+            {
+                "ID": "IL16-11-214B",
+                "Count": -1
+            },
+            {
+                "ID": "IL16-11-214A",
+                "Count": -1
+            }
+        ]
+    },
+    "IL16-14": {
+        "Energy": -106.53,
+        "Weight": 0.52,
+        "Species": [
+            {
+                "ID": "IL16-14-229B",
+                "Count": -1
+            },
+            {
+                "ID": "IL16-14-229A",
+                "Count": -1
+            },
+            {
+                "ID": "IL16-14-229",
+                "Count": 1
+            }
+        ]
+    },
+    "BSR36-17": {
+        "Energy": 10.56,
+        "Weight": 3.51,
+        "Species": [
+            {
+                "ID": "BSR36-17-c2h6",
+                "Count": 6
+            },
+            {
+                "ID": "BSR36-17-ch4",
+                "Count": -6
+            },
+            {
+                "ID": "BSR36-17-r2",
+                "Count": -1
+            }
+        ]
+    },
+    "BSR36-22": {
+        "Energy": 8.72,
+        "Weight": 3.51,
+        "Species": [
+            {
+                "ID": "BSR36-22-c2h6",
+                "Count": 7
+            },
+            {
+                "ID": "BSR36-22-r7",
+                "Count": -1
+            },
+            {
+                "ID": "BSR36-22-ch4",
+                "Count": -7
+            }
+        ]
+    },
+    "RSE43-14": {
+        "Energy": -6.5,
+        "Weight": 7.48,
+        "Species": [
+            {
+                "ID": "RSE43-14-P16",
+                "Count": 1
+            },
+            {
+                "ID": "RSE43-14-E16",
+                "Count": -1
+            }
+        ]
+    },
+    "RSE43-40": {
+        "Energy": -26.4,
+        "Weight": 7.48,
+        "Species": [
+            {
+                "ID": "RSE43-40-E42",
+                "Count": -1
+            },
+            {
+                "ID": "RSE43-40-P42",
+                "Count": 1
+            }
+        ]
+    },
+    "MCONF-11": {
+        "Energy": 4.45,
+        "Weight": 11.43,
+        "Species": [
+            {
+                "ID": "MCONF-11-1",
+                "Count": -1
+            },
+            {
+                "ID": "MCONF-11-12",
+                "Count": 1
+            }
+        ]
+    },
+    "MCONF-20": {
+        "Energy": 3.11,
+        "Weight": 11.43,
+        "Species": [
+            {
+                "ID": "MCONF-20-1",
+                "Count": -1
+            },
+            {
+                "ID": "MCONF-20-21",
+                "Count": 1
+            }
+        ]
+    },
+    "MCONF-30": {
+        "Energy": 4.86,
+        "Weight": 11.43,
+        "Species": [
+            {
+                "ID": "MCONF-30-1",
+                "Count": -1
+            },
+            {
+                "ID": "MCONF-30-31",
+                "Count": 1
+            }
+        ]
+    },
+    "WATER27-2": {
+        "Energy": 15.8,
+        "Weight": 0.7,
+        "Species": [
+            {
+                "ID": "WATER27-2-H2O",
+                "Count": 3
+            },
+            {
+                "ID": "WATER27-2-H2O3",
+                "Count": -1
+            }
+        ]
+    },
+    "WATER27-17": {
+        "Energy": 76.5,
+        "Weight": 0.7,
+        "Species": [
+            {
+                "ID": "WATER27-17-H2O",
+                "Count": 3
+            },
+            {
+                "ID": "WATER27-17-H3Op",
+                "Count": 1
+            },
+            {
+                "ID": "WATER27-17-H3OpH2O3",
+                "Count": -1
+            }
+        ]
+    },
+    "SIE4x4-15": {
+        "Energy": 16.9,
+        "Weight": 1.69,
+        "Species": [
+            {
+                "ID": "SIE4x4-15-h2o",
+                "Count": 1
+            },
+            {
+                "ID": "SIE4x4-15-h2o+",
+                "Count": 1
+            },
+            {
+                "ID": "SIE4x4-15-h2o2+_1.5",
+                "Count": -1
+            }
+        ]
+    },
+    "S66-8": {
+        "Energy": 5.01,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-8-08B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-8-08A",
+                "Count": 1
+            },
+            {
+                "ID": "S66-8-08",
+                "Count": -1
+            }
+        ]
+    },
+    "S66-17": {
+        "Energy": 17.18,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-17-17",
+                "Count": -1
+            },
+            {
+                "ID": "S66-17-17B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-17-17A",
+                "Count": 1
+            }
+        ]
+    },
+    "S66-25": {
+        "Energy": 3.9,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-25-25B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-25-25",
+                "Count": -1
+            },
+            {
+                "ID": "S66-25-25A",
+                "Count": 1
+            }
+        ]
+    },
+    "S66-28": {
+        "Energy": 5.71,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-28-28A",
+                "Count": 1
+            },
+            {
+                "ID": "S66-28-28B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-28-28",
+                "Count": -1
+            }
+        ]
+    },
+    "S66-42": {
+        "Energy": 4.14,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-42-42A",
+                "Count": 1
+            },
+            {
+                "ID": "S66-42-42",
+                "Count": -1
+            },
+            {
+                "ID": "S66-42-42B",
+                "Count": 1
+            }
+        ]
+    },
+    "S66-47": {
+        "Energy": 2.88,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-47-47B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-47-47A",
+                "Count": 1
+            },
+            {
+                "ID": "S66-47-47",
+                "Count": -1
+            }
+        ]
+    },
+    "S66-61": {
+        "Energy": 2.91,
+        "Weight": 10.4,
+        "Species": [
+            {
+                "ID": "S66-61-61B",
+                "Count": 1
+            },
+            {
+                "ID": "S66-61-61A",
+                "Count": 1
+            },
+            {
+                "ID": "S66-61-61",
+                "Count": -1
+            }
+        ]
+    },
+    "YBDE18-6": {
+        "Energy": 51.74,
+        "Weight": 1.15,
+        "Species": [
+            {
+                "ID": "YBDE18-6-me2s-ch2",
+                "Count": -1
+            },
+            {
+                "ID": "YBDE18-6-ch2",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-6-me2s",
+                "Count": 1
+            }
+        ]
+    },
+    "YBDE18-8": {
+        "Energy": 53.73,
+        "Weight": 1.15,
+        "Species": [
+            {
+                "ID": "YBDE18-8-ch2",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-8-nf3",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-8-nf3-ch2",
+                "Count": -1
+            }
+        ]
+    },
+    "YBDE18-9": {
+        "Energy": 32.58,
+        "Weight": 1.15,
+        "Species": [
+            {
+                "ID": "YBDE18-9-cbh22",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-9-nh3",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-9-nh3-cbh22",
+                "Count": -1
+            }
+        ]
+    },
+    "YBDE18-13": {
+        "Energy": 52.28,
+        "Weight": 1.15,
+        "Species": [
+            {
+                "ID": "YBDE18-13-pf3-cbh22",
+                "Count": -1
+            },
+            {
+                "ID": "YBDE18-13-cbh22",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-13-pf3",
+                "Count": 1
+            }
+        ]
+    },
+    "YBDE18-16": {
+        "Energy": 60.11,
+        "Weight": 1.15,
+        "Species": [
+            {
+                "ID": "YBDE18-16-ph3",
+                "Count": 1
+            },
+            {
+                "ID": "YBDE18-16-ph3-ch2",
+                "Count": -1
+            },
+            {
+                "ID": "YBDE18-16-ch2",
+                "Count": 1
+            }
+        ]
+    }
+}

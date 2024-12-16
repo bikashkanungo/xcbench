@@ -1,0 +1,436 @@
+{
+  "Amino20x4": [
+    "ASP_xaz",
+    "ARG_xbv",
+    "ALA_xab",
+    "ILE_xae",
+    "ILE_xag",
+    "THR_xal",
+    "LEU_xap",
+    "THR_xaq",
+    "ALA_xag",
+    "ARG_xci",
+    "ASP_xau",
+    "LYS_xap",
+    "LEU_xad",
+    "GLU_xbi",
+    "LYS_xan",
+    "GLU_xav"
+  ],
+  "BHROT27": [
+    "n2h4_ecl1",
+    "nh2oh_st2",
+    "n2h4_st1",
+    "tmethane_60",
+    "tmethane_120",
+    "nh2oh_ecl",
+    "bithiophene_syn",
+    "bithiophene_TS"
+  ],
+  "FH51": [
+    "NH3",
+    "H2O",
+    "C4H9NCO",
+    "hexandione",
+    "C4H9NHCONH2",
+    "C3H7CN",
+    "C3H7CONH2",
+    "3-methylpentane",
+    "dimethylbutane",
+    "methyl-d-valerolactone"
+  ],
+  "TAUT15": [
+    "8a",
+    "3d",
+    "8b",
+    "3a"
+  ],
+  "ISOL24": [
+    "i2e",
+    "i4e",
+    "i20e",
+    "i2p",
+    "i20p",
+    "i4p"
+  ],
+  "PCONF21": [
+    "366",
+    "99"
+  ],
+  "DARC": [
+    "cpdiene",
+    "P9",
+    "malein"
+  ],
+  "ICONF": [
+    "H4P2O7_3",
+    "H4P2O7_1"
+  ],
+  "ISO34": [
+    "P21",
+    "E21"
+  ],
+  "UPU23": [
+    "1b",
+    "4b",
+    "2p",
+    "1g",
+    "7a"
+  ],
+  "RG18": [
+    "c2h6",
+    "hfAr",
+    "c2h6Ne",
+    "ne",
+    "c2h2Ne",
+    "c2h2",
+    "hf",
+    "ar"
+  ],
+  "DC13": [
+    "ISO_C8H8_41",
+    "CL2",
+    "C6Cl6",
+    "C6H6",
+    "ISO_C8H8_1",
+    "HCL"
+  ],
+  "BH76": [
+    "hfch3ts",
+    "h",
+    "H2O",
+    "H2",
+    "RKT06",
+    "hcnts",
+    "RKT07",
+    "oh",
+    "RKT17",
+    "ch3",
+    "hcn",
+    "C2H6",
+    "hf",
+    "NH2",
+    "cl",
+    "c3h7",
+    "c3h7ts",
+    "RKT09"
+  ],
+  "HEAVY28": [
+    "sbh3",
+    "h2s",
+    "teh2",
+    "h2o",
+    "sbh3_h2o",
+    "bih3",
+    "teh2_h2s",
+    "bih3_h2s"
+  ],
+  "INV24": [
+    "H2O",
+    "Hexahelicene_TS",
+    "Hexahelicene",
+    "H2O_TS",
+    "Pentahelicene",
+    "Pentahelicene_TS"
+  ],
+  "PX13": [
+    "h2o_6_ts",
+    "h2o_6"
+  ],
+  "G2RC": [
+    "45",
+    "97",
+    "8",
+    "94",
+    "25",
+    "39",
+    "22",
+    "23",
+    "24"
+  ],
+  "CHB6": [
+    "23",
+    "23B",
+    "23A"
+  ],
+  "RC21": [
+    "3p1",
+    "3e",
+    "7p1",
+    "7p2",
+    "9e",
+    "3int1",
+    "3int3",
+    "9p1",
+    "7e",
+    "3p2",
+    "9p2"
+  ],
+  "BHPERI": [
+    "Ethylene",
+    "cis-1,3,5-Hexatriene",
+    "08ts",
+    "00r",
+    "1,3-Cyclopentadiene",
+    "TS8",
+    "07r",
+    "TS2"
+  ],
+  "NBPRC": [
+    "bh3",
+    "nh3-bh3",
+    "nh3"
+  ],
+  "G21EA": [
+    "EA_23",
+    "EA_23n",
+    "EA_17",
+    "EA_20",
+    "EA_17n",
+    "EA_20n"
+  ],
+  "AL2X6": [
+    "alme2",
+    "al2me5",
+    "alme3"
+  ],
+  "C60ISO": [
+    "10",
+    "8",
+    "1"
+  ],
+  "SCONF": [
+    "G1",
+    "G3"
+  ],
+  "CDIE20": [
+    "R60",
+    "R20",
+    "P56",
+    "P20",
+    "P60",
+    "R56"
+  ],
+  "DIPCS10": [
+    "c2h6",
+    "c2h6_2+"
+  ],
+  "S22": [
+    "08a",
+    "03",
+    "11",
+    "11a",
+    "08",
+    "03a"
+  ],
+  "PA26": [
+    "Gp",
+    "si2h6",
+    "si2h6p",
+    "G"
+  ],
+  "W4-11": [
+    "n",
+    "alh3",
+    "cl",
+    "oxirene",
+    "fccf",
+    "o",
+    "h",
+    "oh",
+    "co2",
+    "s",
+    "cs",
+    "hcl",
+    "s4-c2v",
+    "ketene",
+    "sio",
+    "becl2",
+    "c-hono",
+    "be",
+    "al",
+    "c",
+    "si",
+    "f",
+    "hnc",
+    "nh2",
+    "ch2-trip"
+  ],
+  "BH76RC": [
+    "ch3f",
+    "cl-",
+    "f-",
+    "ch3cl"
+  ],
+  "IDISP": [
+    "octane1",
+    "octane2"
+  ],
+  "MB16-43": [
+    "LiH",
+    "BH3",
+    "H2",
+    "AlH3",
+    "14",
+    "Cl2",
+    "O2",
+    "SiH4"
+  ],
+  "G21IP": [
+    "n",
+    "IP_75",
+    "37",
+    "cl+",
+    "n+",
+    "cl"
+  ],
+  "HAL59": [
+    "F3CI",
+    "27_CH3Br-benB",
+    "PCH_PhI",
+    "27_CH3Br-benAB",
+    "PCH",
+    "NCH_F3CI",
+    "PhI",
+    "FI_PCH",
+    "FI",
+    "BrBr",
+    "NCH",
+    "27_CH3Br-benA",
+    "NBS",
+    "PCH_NBS",
+    "FCCH",
+    "BrBr_FCCH"
+  ],
+  "BUT14DIOL": [
+    "B54",
+    "B40",
+    "B44",
+    "B33",
+    "B39",
+    "B30",
+    "B3",
+    "B43",
+    "B1"
+  ],
+  "PArel": [
+    "aminocoohbz1",
+    "aminocoohbz2"
+  ],
+  "AHB21": [
+    "15A",
+    "15B",
+    "10B",
+    "6",
+    "6A",
+    "15",
+    "6B",
+    "10",
+    "10A"
+  ],
+  "PNICO23": [
+    "13b",
+    "11b",
+    "11",
+    "11a",
+    "21a",
+    "13a",
+    "13",
+    "21b",
+    "21",
+    "7",
+    "7b",
+    "7a"
+  ],
+  "ACONF": [
+    "H_x+g-g-",
+    "H_g+x-t+",
+    "H_ttt"
+  ],
+  "WCPT18": [
+    "reac9",
+    "ts9h2o",
+    "reac8",
+    "ts9",
+    "ts8",
+    "reac6",
+    "ts6",
+    "h2o"
+  ],
+  "IL16": [
+    "214A",
+    "229",
+    "229A",
+    "214",
+    "229B",
+    "214B"
+  ],
+  "BSR36": [
+    "c2h6",
+    "r2",
+    "ch4",
+    "r7"
+  ],
+  "RSE43": [
+    "E1",
+    "P1",
+    "P42",
+    "E42",
+    "E16",
+    "P16"
+  ],
+  "MCONF": [
+    "12",
+    "31",
+    "1",
+    "21"
+  ],
+  "WATER27": [
+    "H3OpH2O3",
+    "H2O",
+    "H2O3",
+    "H3Op"
+  ],
+  "SIE4x4": [
+    "h2o+",
+    "h2o",
+    "h2o2+_1.5"
+  ],
+  "S66": [
+    "47A",
+    "08B",
+    "61A",
+    "61",
+    "25A",
+    "25",
+    "28B",
+    "25B",
+    "42A",
+    "17A",
+    "47",
+    "08",
+    "17",
+    "47B",
+    "42B",
+    "61B",
+    "28A",
+    "42",
+    "17B",
+    "28",
+    "08A"
+  ],
+  "YBDE18": [
+    "me2s-ch2",
+    "nh3-cbh22",
+    "nh3",
+    "ph3",
+    "ch2",
+    "me2s",
+    "pf3",
+    "cbh22",
+    "pf3-cbh22",
+    "nf3-ch2",
+    "ph3-ch2",
+    "nf3"
+  ]
+}
