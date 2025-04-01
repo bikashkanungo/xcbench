@@ -1,6 +1,6 @@
 {
   "rootDir": "./",
-  "sysJSON": "UnconvergedSys_out_NNGGA_UEG_rectified_def2_qzvp.json",
+  "sysJSON": "BasicBarrierSystems.json",
   "geomJSON": "Geom.json",
   "header": "sample_header_NNGGA_NNLDA",
   "basis": "def2-qzvp",
