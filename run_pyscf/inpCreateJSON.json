@@ -1,0 +1,6 @@
+{ 
+  "allJSON": "GMTKN55.json",
+  "outSysJSON": "BasicBarrierSystems.json",
+  "subsetsGroupsJSON": "SubsetsGroups.json",
+  "groups": ["basic", "barrier"]
+}

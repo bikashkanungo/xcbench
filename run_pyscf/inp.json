@@ -1,0 +1,15 @@
+{
+  "rootDir": "./",
+  "sysJSON": "DietGMTKN55Systems.json",
+  "geomJSON": "Geom.json",
+  "header": "sample_header",
+  "basis": "def2-qzvp",
+  "sysFilePostfix": "_NNGGA_def2_qzvp",
+  "outFile": "out_NNGGA_def2_qzvp",
+  "xc" : {"type": "NNGGA","ptcPath": "NNGGA.ptc", "tol": 1e-8, "sthres":0.0},
+  "sysRange": {"start":0, "end": 280},
+  "modulesAndEnv": "modules_env",
+  "slurm": {"nodesPerSys": 1, "tasksPerNode": 1, "cpusPerTask":128, "threads":128, "t": "2:00:00", "partition": "", "queue": "regular", "account": "m3059", "extras":["-C cpu"], "jobname": "pyscf", "email": "bikash@umich.edu"},
+  "jobscript": "jobscript_pyscf",
+  "stdOut": null
+}

@@ -1,0 +1,15 @@
+{
+  "rootDir": "./",
+  "sysJSON": "BasicBarrierSystems.json",
+  "geomJSON": "Geom.json",
+  "header": "sample_header_NNGGA_NNLDA",
+  "basis": "def2-qzvp",
+  "sysFilePostfix": "_NNLDA_def2_qzvp",
+  "outFile": "out_NNGGA_UEG_rectified_def2_qzvp",
+  "xc" : {"type": "NNLDA","ptcPath": "NNLDA.ptc", "tol": 1e-8, "sthres":0.0},
+  "sysRange": {"start":0, "end": 1100},
+  "modulesAndEnv": "modules_env",
+  "slurm": {"nodesPerSys": 1, "tasksPerNode": 1, "cpusPerTask":128, "threads":128, "t": "2:00:00", "partition": "", "queue": "regular", "account": "m4957", "extras":["-C cpu"], "jobname": "pyscf_NNLDA", "email": "bikash@umich.edu"},
+  "jobscript": "jobscript_pyscf_NNLDA",
+  "stdOut": null
+}

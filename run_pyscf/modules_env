@@ -1,0 +1,2 @@
+source ~/.bashrc
+conda activate /global/common/software/m3979/conda_env/pytorch_cpu
