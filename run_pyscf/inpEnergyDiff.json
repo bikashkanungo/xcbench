@@ -1,0 +1,10 @@
+{
+  "sysJSON": "BasicBarrierSystems.json",
+  "allDataJSON": "GMTKN55.json",
+  "outFileToParse": "out_NNGGA_UEG_rectified_PBE_restart_def2_qzvp_test_frac",
+  "subsets": ["W4-11", "G21EA", "G21IP", "DIPCS10", "PA26", "SIE4x4", "YBDE18",\
+              "AL2X6", "NBPRC", "RC21", "G2RC", "BH76RC", "FH51", "TAUT15",\
+              "DC13", "BH76", "BHPERI", "BHROT27", "PX13", "WCPT18", "INV24",\
+              "BHDIV10", "ALK8", "ALKBDE10"],
+  "DFAs": ["PBE", "SCAN", "B3LYP", "wB97X-V"]
+}
